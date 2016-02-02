@@ -1,0 +1,5 @@
+Credentials cache: API:17025
+        Principal: smazibuk@42.FR
+
+  Issued                Expires               Principal
+Feb  1 14:45:31 2016  Feb  2 00:45:05 2016  krbtgt/42.FR@42.FR
